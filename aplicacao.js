@@ -18,7 +18,7 @@ function verificar() {
     } else if (imc >= 17 && imc <= 18.49) {
         classificacao = 'Baixo peso';
     } else if (imc >= 18,50 && imc <= 24,99) {
-        classificacao = 'PEDRINI FRANGO';
+        classificacao = 'Peso normal';
     } else if (imc >= 25 && imc <= 29.99) {
         classificacao = 'Sobrepeso';
     } else if (imc >= 30 && imc <= 4.99) {
